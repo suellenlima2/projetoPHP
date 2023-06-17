@@ -2,6 +2,8 @@
 ## Sistema para gerenciamento e cadastro dos alunos.
 ### Concluído em 15/06/2023
 
+###Alunos: Suellen Lima da Silva, Andressa Lorrane da Silva Lima, Isabel Cristina de Oliveira Silva e Anthony Gomes.
+
 ### O projeto teve como objetivo a criação de um sistema de cadastro para inserir dados de indivíduos inscritos no programa Girau de Oportunidades. O mesmo é composto por um sistema com CRUD completo, além de usar o método POST e ter um sistema de login feito com SESSIONS, que tem como objetivo ser acessado por meio de credenciais exclusivas  disponibilizadas pela prefeitura, para funcionários designados a exercer a função de administrar e inserir os dados.
 
 - Arquivos que vão ser vistas na Pasta do projeto:
